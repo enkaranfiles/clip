@@ -1,2 +1,1 @@
-# clip
-Contrastive Language-Image Pre-Training Paper Replicate
+# Contrastive Language-Image Pre-Training Paper Replicate
